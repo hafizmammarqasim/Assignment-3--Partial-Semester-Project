@@ -1,0 +1,16 @@
+#teamButton, #matchButton, #pointButton {
+
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-background-color: GREEN;
+     -fx-text-fill: WHITE;
+    -fx-padding: 10px;
+    -fx-min-width: 100px;
+     -fx-min-height: 3px;
+     -fx-border-radius: 8px;
+     -fx-background-radius: 25px;
+    -fx-font-family: "Arial";
+    -fx-alignment: CENTER;
+
+
+}

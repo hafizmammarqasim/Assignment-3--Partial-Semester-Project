@@ -1,0 +1,63 @@
+#Login,#signup {
+
+        -fx-font-size: 28px;
+        -fx-font-weight: bold;
+        -fx-text-fill: Blue;
+        -fx-padding: 5px;
+         -fx-font-family: "Arial";
+}
+
+#loginButton {
+  -fx-font-size: 14px;
+  -fx-font-weight: bold;
+  -fx-background-color: GREEN;
+   -fx-text-fill: WHITE;
+  -fx-padding: 10px;
+  -fx-min-width: 100px;
+  -fx-min-height: 3px;
+  -fx-border-radius: 8px;
+  -fx-background-radius: 25px;
+  -fx-font-family: "Arial";
+  -fx-alignment: CENTER;
+}
+
+#signupButton,#back,#creatAccount {
+  -fx-font-size: 14px;
+  -fx-font-weight: bold;
+  -fx-background-color: RED;
+  -fx-text-fill: WHITE;
+  -fx-padding: 10px;
+  -fx-min-width: 100px;
+  -fx-min-height: 10px;
+  -fx-border-radius: 8px;
+  -fx-background-radius: 25px;
+  -fx-font-family: "Arial";
+  -fx-alignment: CENTER;
+}
+
+#userNameField,#enterName {
+  -fx-font-size: 14px;
+
+  -fx-text-fill: BLACK;
+  -fx-padding: 10px;
+
+  -fx-min-height: 10px;
+
+  -fx-border-width: 2px;
+  -fx-border-radius: 5px;
+  -fx-background-radius: 25px;
+  -fx-font-family: "Arial";
+}
+
+#passwordField,#enterPassword,#confirmPassword {
+  -fx-font-size: 14px;
+
+  -fx-text-fill: BLACK;
+  -fx-padding: 10px;
+
+  -fx-min-height: 10px;
+  -fx-border-width: 2px;
+  -fx-border-radius: 5px;
+  -fx-background-radius: 25px;
+  -fx-font-family: "Arial";
+}
